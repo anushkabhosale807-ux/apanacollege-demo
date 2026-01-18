@@ -1,4 +1,4 @@
 # apanacollege-demo
 This ismy first git repository
 <br>
-author - anushka bhosale
+author - anushka (aoana college)
